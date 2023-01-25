@@ -1,4 +1,5 @@
-# Hey there, and thanks for checking out my Github <img src="/party_blob.gif" />
+# Hey there, and thanks for checking out my Github!
+<img src="/party_blob.gif" />
 
 ### I am an engineer with 7+ years of experience in the electromechanical discipline. I unintentionally discovered my love for programming by doing some work with Visual Basic for Applications (VBA) macros in Excel for my previous company. Eventually this ballooned into something much bigger, and I was tasked with leading a number of software-engineering-related initiatives, including maintenance and updates for our in-house document control software, as well as developing a production planning software, using Excel and VBA, for a sister company from scratch.
 
